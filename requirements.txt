@@ -1,0 +1,6 @@
+numpy -> 2.2.3
+scipy.io -> 1.15.2
+matplotlib -> 3.10.1	
+PIL -> 11.1.0
+
+
